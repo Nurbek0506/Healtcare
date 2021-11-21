@@ -1,7 +1,11 @@
 # healthcare
 
 ##  images
-    
+    ## project images
+
+[![Images](https://github.com/Nurbek0506/Healtcare/blob/main/src/assets/img/readme.png)](https://github.com/Nurbek0506)
+
+
 ## Project setup
 ```
 npm install
